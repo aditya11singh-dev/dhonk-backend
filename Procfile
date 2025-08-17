@@ -1,1 +1,1 @@
-web: gunicorn app:app --preload --timeout 120
+web: gunicorn dhonk_backend:app --preload --timeout 120
